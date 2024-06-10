@@ -24,6 +24,9 @@ To build all components:
 ```
 By default, this builds the components for local environment.
 
+To run locally on chrome:
+After building, import the dist folder from the browser-extension project into Chrome extensions. Then, start the application in the `app` folder to access the web application.
+
 ### For beta environment
 
 ```sh
